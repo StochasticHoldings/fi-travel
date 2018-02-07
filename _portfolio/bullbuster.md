@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bullbuster Brand Direct, Inc.
+title: Fi Hits Up San Diego .
 feature-img: "img/Background_Img.png"
 thumbnail-path: "/img/Bullbuster_Brand_Direct_Inc.png"
 short-description: Bullbuster Brand Direct, Inc. uses passion and technology to help anglers spend more time fishing.

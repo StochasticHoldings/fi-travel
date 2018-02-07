@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dentata, LLC
+title: Fi Single Handidly Smashes All VEB Records By Scaling Honest Tea To Win & Sweating Out The Pain Of Growth For ZICO
 feature-img: "img/Dentata.jpg"
 thumbnail-path: "/img/Dentata.jpg"
 short-description: Dentata, LLC (Home Is Where The Heart Is)
